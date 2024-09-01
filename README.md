@@ -28,13 +28,13 @@ This project involved refactoring an existing e-commerce platform to utilize Red
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/iggys4ur/platform-via-redux.git
+    git clone https://github.com/iggys4ur/platform-redux.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd platform-via-redux
+    cd platform-redux
     ```
 
 3. Install the dependencies:
